@@ -101,7 +101,7 @@ svg {
 .introText {
     color: black;
     font-family: "Times New Roman" !important;
-    font-size: 10rem;
+    font-size: clamp(2rem, 5vw+1rem, 7rem);
     padding-top: 30px;
     justify-content: right;
     margin-left: 10px;
