@@ -95,13 +95,13 @@ svg {
     height: 100%;
     display: flex;
     justify-content: space-between;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .introText {
     color: black;
     font-family: "Times New Roman" !important;
-    font-size: clamp(2rem, 5vw+1rem, 7rem);
+    font-size: 7vw;
     padding-top: 30px;
     justify-content: right;
     margin-left: 10px;
@@ -141,7 +141,7 @@ svg {
     display: flex;
     margin-top: 30px;
     margin-left: 10px;
-    justify-content: right;
+    justify-content: center;
  }
  .icon{
     width: 40px;
