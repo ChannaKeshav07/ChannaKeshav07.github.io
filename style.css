@@ -24,16 +24,6 @@ svg {
     margin: 0 auto;
 }
 
-.svgclass{
-    width: 500px;
-    background: url(img32.jpg) top center;
-}
-
-.chinsvg{
-    z-index: -1;
-    width: 700px;
-}
-
 .text-copy {
     fill: none;
     stroke: white;
@@ -109,7 +99,7 @@ svg {
 .introText {
     color: black;
     font-family: "Times New Roman" !important;
-    font-weight: 1000;
+    font-size: 10rem;
     padding-top: 30px;
     justify-content: right;
     margin-left: 10px;
